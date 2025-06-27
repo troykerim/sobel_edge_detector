@@ -1,1 +1,2 @@
-# sobel_edge_detector
+# Sobel Edge Detector on Zynq
+
