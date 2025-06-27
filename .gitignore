@@ -29,3 +29,12 @@ hardware/sobel_proj/
 !hardware/exports/
 !hardware/ip_repo/sobel/**   
 !hardware/sobel_proj/sobel_proj.xpr
+
+
+software/*
+!software/sobel_app/
+software/sobel_app/*
+!software/sobel_app/src/
+software/sobel_app/src/Xilinx.spec
+software/sobel_app/src/lscript.ld
+/software/sobel_app/src/README.txt
