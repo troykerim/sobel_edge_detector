@@ -38,7 +38,8 @@ The three images below show the results of the Sobel edge detector when running 
 
 ![Filtered Image](./screenshots/filtered_image.png)
 
-[!Terminal Output](./screenshots/terminal_output.png)
+![!Terminal Output](./screenshots/terminal_output.png)
+
 ## Future Work
 - Record Video Demo
 - C code fixes
